@@ -20,13 +20,13 @@ This project aims to evaluate the environmental footprint of food production, fo
 * Offer actionable, data-based recommendations for more sustainable food production and consumption.
 
 ### 📌 Analytical Questions
-- Which food items emit the most and least carbon?
-- How does environmental impact compare between plant-based and animal-based foods?
-- What correlations exist between land use, water use, and emissions?
-- Which production stages (e.g., farm, transport, packaging, retail) have the highest emissions?
-- What environmental impact do different food types (cereals, dairy, meat, vegetables) have?
-- What are the key contributors to eutrophication (nutrient pollution in water)?
-- Can clustering techniques group foods by environmental impact?
+1. Which food products have the highest and lowest carbon emissions?
+2. What is the correlation between Land use, Water use and Emissions?
+3. Which food production stage contributes most to Emissions?
+4. How do different food types impact the environment?
+5. How do Plant-Based vs. Animal-Based foods compare in environmental impact?
+6. Can we group foods based on their environmental impact using Clustering?
+7. What are the top five contributors to Eutrophication?
 
 ### 📌 Hypothesis Testing
 - **H₀ (Null Hypothesis):** No significant difference in environmental impact between plant-based and animal-based foods.
