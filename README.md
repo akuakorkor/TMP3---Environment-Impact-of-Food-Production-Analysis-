@@ -132,8 +132,9 @@ The dataset includes 43 food products with 23 features detailing environmental i
 ---
 
 ## 7. Deployment
-[View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/ae484ea3-4cb9-4685-bc8b-3cbf7eaf1a4d/ac580dee05911968cb06?experience=power-bi)
+[View Power BI Dashboard](https://app.powerbi.com/links/nGU_G564I8?ctid=7bfb1286-b735-4395-8ea0-ed2c4861d742&pbi_source=linkShare)
 
+[Published Article](https://medium.com/@akuaakonnor43/foodprint-insights-a-four-week-data-science-journey-c9ec5340ecc5)
 ---
 
 ## 8. Conclusion
